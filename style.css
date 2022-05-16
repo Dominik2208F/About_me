@@ -262,7 +262,7 @@ background-color: aliceblue;
 width:33%;
 position:relative;   
 top:400px;
-margin-right: 2cm;
+margin-right: 1cm;
 margin-left:250px;
 border-radius: 1%;
 
@@ -532,11 +532,11 @@ margin-top: -2cm;
         transform: translateY(700%)
     }
     66%{
-        transform: translateX(1200%) translateY(700%)
+        transform: translateX(1100%) translateY(700%)
     }
    
     80%{
-        transform: translateX(1200%) ;
+        transform: translateX(1100%) ;
     }
     100%{
         transform: translateX(0)
@@ -598,7 +598,7 @@ margin-top: -2cm;
     width:293px;
     height:453px;
     margin-top:1cm;
-    margin-left: 1cm;
+    margin-right: 3cm;
     
   }
   h1{
@@ -636,14 +636,15 @@ margin-top: -2cm;
   }
   .next {
       
-      width: 200px;
-      height: 200px;
+      width: auto;
+      height: auto;
       position: absolute;
       margin-top: 2.5cm;
       margin-left: 20px;
   }
   .next img{
-      width: 200px;
+      width: 150px;
+      height: 200px;
       animation: myAnim6 2s ease 0s 100 normal forwards;
 
   }
