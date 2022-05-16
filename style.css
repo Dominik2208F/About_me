@@ -263,7 +263,7 @@ width:33%;
 position:relative;   
 top:400px;
 margin-right: 2cm;
-margin-left:350px;
+margin-left:250px;
 border-radius: 1%;
 
 
@@ -785,9 +785,8 @@ margin-top: -2cm;
   #cytat{
     font-family: 'Dancing Script', cursive;
     font-size: 35px;
-    position: absolute;
-    margin-top: 8cm;
-    margin-left: 11cm;
+    margin-top: 4cm;
+    text-align: center;
   }
 #ciekawostki2 img {
     height: 450px;
@@ -865,10 +864,11 @@ animation: myAnim10 2s ease 0s infinite normal forwards;
     
 }
 .samolocik{
-  width:200px;
-  height:200px;
-  margin-left: 20cm;
-  margin-top: 2cm;
+  width:100px;
+  height:100px;
+  position: absolute;
+  margin-top: 4cm;
+  margin-left: 15cm;
 }
 h3{
     padding-top: 20px;
@@ -889,7 +889,7 @@ h3{
 #nelson{
     font-family: 'Dancing Script', cursive;
     font-size: 35px;
-    position: absolute;
+    text-align: center;
     
 }
 h5{
