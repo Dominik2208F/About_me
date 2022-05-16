@@ -263,7 +263,7 @@ width:33%;
 position:relative;   
 top:400px;
 margin-right: 1cm;
-margin-left:250px;
+margin-left:230px;
 border-radius: 1%;
 
 
@@ -595,10 +595,10 @@ margin-top: -2cm;
       }
   }
   .photoskills{
-    width:293px;
+    width:253px;
     height:453px;
     margin-top:1cm;
-    margin-right: 3cm;
+    margin-right: 4cm;
     
   }
   h1{
@@ -688,7 +688,7 @@ margin-top: -2cm;
     width: 200px;
     height: 200px;
     position: absolute;
-    margin-left: -8cm;
+    margin-left: -6cm;
     margin-top:-2cm;
     animation: myAnim7 2s ease 0s 100 normal forwards;
     
