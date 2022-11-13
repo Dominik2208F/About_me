@@ -271,8 +271,8 @@ border-radius: 1%;
 }
 #sekcja3_prawo{
     height:580px;
-    background-color: #6B385B;
-    width:33%;
+    background-color: #335384;
+    width:30%;
     position:relative;   
     top:270px;
     left:10px;
@@ -595,9 +595,9 @@ margin-top: -2cm;
       }
   }
   .photoskills{
-    width:253px;
+    width:300px;
     height:453px;
-    margin-top:1cm;
+    margin-top:1.5cm;
     margin-right: 4cm;
     
   }
@@ -629,7 +629,7 @@ margin-top: -2cm;
 }
   .opisskili3{
     font-family: 'Dancing Script', cursive;
-    color:aquamarine;
+    color:#0ea3b4;
     padding-left: 10px;
     margin-top: 20px;
     font-size: 22px;
